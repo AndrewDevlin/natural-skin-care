@@ -1,0 +1,51 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-family:fantasy;
+  font-size: 48px;
+}
+
+h2 {
+  color: black;
+  font-style: normal;
+  text-align: left;
+  font-family: fantasy;
+  font-size: 32px;
+}
+
+h3 {
+  color: black;
+  font-style: italic;
+  text-align: left;
+  font-family: fantasy;
+  font-size: 24px
+}
+
+p {
+  font-family: fantasy;
+
+  font-size: 24px;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 36px;
+  font-style: normal;
+  font-family: fantasy;
+}
+
+li {
+  font-weight: lighter;
+  font-family: fantasy;
+}
+
+img{
+  width: 300px;
+}
+
+ol {
+  font-size: 20px;
+  line-height: 36px;
+  font-style: normal;
+  font-family: fantasy;
+}
